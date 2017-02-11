@@ -1,0 +1,17 @@
+article {
+				text-align: center;
+				}
+img {
+	  width: 300px;
+	  border: 4px double #f0f 
+}
+.le{
+			text-align: left;	
+			border-left: 4px dashed #8a2be2;	
+}
+a {color: #006400
+
+}
+a:hover{
+				text-decoration: none;
+}
